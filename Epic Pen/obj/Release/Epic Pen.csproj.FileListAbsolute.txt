@@ -18,3 +18,6 @@ C:\Users\Brian\Documents\Visual Studio 2010\Projects\Epic Pen\Epic Pen\obj\Relea
 C:\Users\Brian\Documents\Visual Studio 2010\Projects\Epic Pen\Epic Pen\obj\Release\AboutWindow.g.cs
 C:\Users\Brian\Documents\Visual Studio 2010\Projects\Epic Pen\Epic Pen\obj\Release\Epic_Pen.Properties.Resources.resources
 C:\Users\Brian\Documents\Visual Studio 2010\Projects\Epic Pen\Epic Pen\obj\Release\icons\noun_project_389.baml
+D:\gitrepos\Epic-Pen\Epic Pen\obj\Release\Epic Pen.csproj.AssemblyReference.cache
+D:\gitrepos\Epic-Pen\Epic Pen\obj\Release\click through wpf.exe
+D:\gitrepos\Epic-Pen\Epic Pen\obj\Release\click through wpf.pdb
